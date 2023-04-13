@@ -1,0 +1,12 @@
+{
+    "name": "sergei/example-app",
+    "description": "test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "sergei"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
